@@ -1,11 +1,11 @@
 {
-  "script": {
-  "start" : "node nitro.js"
-  },
   "dependencies": {
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "discord.js": "^13.3.1",
     "prompt": "^1.2.0"
+  },
+  "scripts": {
+  "start": "node nitro.js"
   }
 }
