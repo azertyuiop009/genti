@@ -1,4 +1,7 @@
 {
+  "script": {
+  "start" : "node nitro.js"
+  }
   "dependencies": {
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
